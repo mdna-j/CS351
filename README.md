@@ -1,2 +1,1 @@
-# CS351
-Programming Languages
+Coding in Python, Prolog, and F#
